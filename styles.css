@@ -1,0 +1,54 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: aquamarine;
+  /*background: linear-gradient(to bottom right, lightblue, aquamarine, skyblue);*/
+}
+.main-section {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+#mainDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 500px;
+}
+#message-div {
+  width: 100%;
+  height: 70%;
+  overflow: auto;
+  font-family: fantasy;
+  border-radius: 15px;
+}
+#message-div h2 {
+  padding: 5px;
+  margin: 5px;
+}
+#message-div p {
+  padding: 5px;
+  margin: 3px;
+}
+#main-button {
+  width: 200px;
+  height: 40px;
+  margin: 15px;
+  font-size: 20px;
+  border: 2px solid aqua;
+  border-radius: 10px;
+  color: blue;
+  background-color: skyblue;
+}
+#more-privacy-button {
+  width: 200px;
+  height: 40px;
+  margin: 15px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 2px solid aqua;
+  color: blue;
+  background-color: antiquewhite;
+}
