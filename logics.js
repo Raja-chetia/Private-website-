@@ -1,4 +1,4 @@
-let message = `Oii ! ayto mor personal website, tume mula Instagram ot message kore chet to delete kore deba. aru pesot mor website to check koreba moy update kore thom ok? mor message or notification gola ha problem hoi..moy akol seen kore thoi dem..ok? Aru ay website to balag ata password asa "848612" ayto use koreba kunubi check korela ok?? `;
+let message = `Oii ! ayto mor personal website, tume mula Instagram ot message kore chet to delete kore deba. aru pesot mor website to check koreba moy update kore thom ok? mor message or notification gola ha problem hoi..moy akol seen kore thoi dem..ok? Aru ay website to balag ata password asa "848612" ayto use koreba kunubi check korela ok?? tumak eman miss koresu..parela deba message ata..🥺, moy balag try kore asu khale atea anaka kam bonabo lagebo aru🥺..upi ni..`;
 
 let mainMessage = `<h2>Message for you </h2><br>` + `<p>`+ message + `</p>`;
 
