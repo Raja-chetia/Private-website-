@@ -1,4 +1,4 @@
-let message = `Hallow ! Abhanish ....`;
+let message = `Hallow ! Abhanish ....It is my personal website`;
 
 let mainMessage = `<h2>Message for you </h2><br>` + `<p>`+ message + `</p>`;
 
