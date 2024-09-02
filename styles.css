@@ -52,3 +52,18 @@ body {
   color: blue;
   background-color: antiquewhite;
 }
+#question-paper-title {
+  display: block;
+  padding: 10px;
+  background: lightgreen;
+  font-size: 25px;
+  font-family: fantasy;
+  color: blue;
+}
+.question-paper {
+  width: 100%;
+  aspect-ratio: 2/3;
+  border: 2px solid green;
+  margin: 5px 0 5px 0;
+}
+
